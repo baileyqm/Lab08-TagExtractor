@@ -1,0 +1,2158 @@
+"absolutely" occurs 1 times
+
+"absorb" occurs 1 times
+
+"absurd" occurs 2 times
+
+"account" occurs 1 times
+
+"acts" occurs 1 times
+
+"adds" occurs 1 times
+
+"admirable" occurs 1 times
+
+"advice" occurs 1 times
+
+"affected" occurs 1 times
+
+"afraid" occurs 2 times
+
+"air" occurs 5 times
+
+"airy" occurs 2 times
+
+"ale" occurs 1 times
+
+"alive" occurs 1 times
+
+"alternation" occurs 1 times
+
+"amazement" occurs 1 times
+
+"analyze" occurs 1 times
+
+"ancestral" occurs 1 times
+
+"angles" occurs 1 times
+
+"angry" occurs 4 times
+
+"angryasked" occurs 1 times
+
+"anybody" occurs 3 times
+
+"appetite" occurs 3 times
+
+"arabesque" occurs 1 times
+
+"arbors" occurs 4 times
+
+"arms" occurs 2 times
+
+"arranged" occurs 1 times
+
+"artistic" occurs 1 times
+
+"ask" occurs 2 times
+
+"asked" occurs 3 times
+
+"asking" occurs 1 times
+
+"asks" occurs 1 times
+
+"asleep" occurs 2 times
+
+"assure" occurs 1 times
+
+"assures" occurs 1 times
+
+"astonish" occurs 1 times
+
+"atrocious" occurs 1 times
+
+"awake" occurs 2 times
+
+"awakeoh" occurs 1 times
+
+"away" occurs 10 times
+
+"awayhe" occurs 1 times
+
+"awful" occurs 2 times
+
+"awfully" occurs 1 times
+
+"axe" occurs 1 times
+
+"baby" occurs 4 times
+
+"bad" occurs 6 times
+
+"badat" occurs 1 times
+
+"bare" occurs 1 times
+
+"bargain" occurs 1 times
+
+"barred" occurs 2 times
+
+"bars" occurs 3 times
+
+"basely" occurs 1 times
+
+"bay" occurs 1 times
+
+"beautiful" occurs 4 times
+
+"bed" occurs 5 times
+
+"bedit" occurs 1 times
+
+"beds" occurs 2 times
+
+"bedstead" occurs 3 times
+
+"beg" occurs 1 times
+
+"began" occurs 3 times
+
+"begin" occurs 1 times
+
+"beginning" occurs 1 times
+
+"behindthat" occurs 1 times
+
+"believe" occurs 7 times
+
+"believeand" occurs 1 times
+
+"believed" occurs 1 times
+
+"belonging" occurs 1 times
+
+"betrayed" occurs 1 times
+
+"better" occurs 10 times
+
+"big" occurs 4 times
+
+"bit" occurs 6 times
+
+"bitonly" occurs 1 times
+
+"blackberry" occurs 1 times
+
+"blame" occurs 1 times
+
+"blank" occurs 1 times
+
+"bless" occurs 1 times
+
+"blessed" occurs 2 times
+
+"bloated" occurs 1 times
+
+"boat" occurs 1 times
+
+"body" occurs 1 times
+
+"bordered" occurs 1 times
+
+"box" occurs 1 times
+
+"boys" occurs 1 times
+
+"breadth" occurs 2 times
+
+"breadths" occurs 2 times
+
+"break" occurs 1 times
+
+"bright" occurs 1 times
+
+"bring" occurs 1 times
+
+"broken" occurs 2 times
+
+"brother" occurs 2 times
+
+"brotherthey" occurs 1 times
+
+"budding" occurs 1 times
+
+"bulbous" occurs 2 times
+
+"burden" occurs 1 times
+
+"bureau" occurs 1 times
+
+"burning" occurs 1 times
+
+"bushes" occurs 1 times
+
+"buttercups" occurs 1 times
+
+"called" occurs 1 times
+
+"came" occurs 5 times
+
+"candlelight" occurs 1 times
+
+"canvas" occurs 1 times
+
+"care" occurs 3 times
+
+"careful" occurs 3 times
+
+"carethere" occurs 1 times
+
+"carriage" occurs 1 times
+
+"carried" occurs 1 times
+
+"case" occurs 3 times
+
+"cases" occurs 2 times
+
+"caught" occurs 4 times
+
+"cautioned" occurs 1 times
+
+"cellar" occurs 1 times
+
+"centre" occurs 1 times
+
+"certain" occurs 1 times
+
+"chair" occurs 2 times
+
+"change" occurs 1 times
+
+"changed" occurs 1 times
+
+"changes" occurs 4 times
+
+"charlotte" occurs 1 times
+
+"chase" occurs 1 times
+
+"cheaply" occurs 1 times
+
+"check" occurs 1 times
+
+"child" occurs 3 times
+
+"children" occurs 6 times
+
+"childs" occurs 1 times
+
+"chintz" occurs 1 times
+
+"clean" occurs 1 times
+
+"clearer" occurs 1 times
+
+"clearly" occurs 1 times
+
+"clever" occurs 1 times
+
+"climb" occurs 2 times
+
+"closer" occurs 1 times
+
+"clothes" occurs 1 times
+
+"cloud" occurs 1 times
+
+"cod" occurs 1 times
+
+"coheirs" occurs 1 times
+
+"cold" occurs 1 times
+
+"colonial" occurs 1 times
+
+"color" occurs 4 times
+
+"columns" occurs 1 times
+
+"come" occurs 3 times
+
+"comes" occurs 6 times
+
+"comfort" occurs 3 times
+
+"comfortable" occurs 1 times
+
+"commands" occurs 1 times
+
+"commit" occurs 1 times
+
+"committing" occurs 1 times
+
+"common" occurs 1 times
+
+"companionship" occurs 1 times
+
+"company" occurs 1 times
+
+"comparative" occurs 1 times
+
+"conclusion" occurs 1 times
+
+"condition" occurs 3 times
+
+"confess" occurs 1 times
+
+"confuse" occurs 1 times
+
+"confusion" occurs 1 times
+
+"congenial" occurs 1 times
+
+"connect" occurs 1 times
+
+"conscientiously" occurs 1 times
+
+"conspicuous" occurs 1 times
+
+"constant" occurs 1 times
+
+"constantly" occurs 1 times
+
+"contradictions" occurs 1 times
+
+"control" occurs 3 times
+
+"convinced" occurs 1 times
+
+"convolutionswhy" occurs 1 times
+
+"corner" occurs 1 times
+
+"cornerbut" occurs 1 times
+
+"count" occurs 1 times
+
+"country" occurs 3 times
+
+"course" occurs 12 times
+
+"cousin" occurs 2 times
+
+"covered" occurs 2 times
+
+"crawl" occurs 2 times
+
+"crawling" occurs 1 times
+
+"crawls" occurs 1 times
+
+"creep" occurs 8 times
+
+"creeping" occurs 9 times
+
+"creeps" occurs 2 times
+
+"creepy" occurs 1 times
+
+"cried" occurs 1 times
+
+"cross" occurs 1 times
+
+"crying" occurs 2 times
+
+"cultivates" occurs 1 times
+
+"curves" occurs 2 times
+
+"damp" occurs 1 times
+
+"danger" occurs 1 times
+
+"dangerous" occurs 1 times
+
+"dark" occurs 1 times
+
+"darling" occurs 4 times
+
+"day" occurs 7 times
+
+"daylight" occurs 5 times
+
+"days" occurs 2 times
+
+"daytime" occurs 4 times
+
+"dead" occurs 1 times
+
+"deal" occurs 4 times
+
+"dealhaving" occurs 1 times
+
+"dear" occurs 11 times
+
+"dearly" occurs 1 times
+
+"debased" occurs 1 times
+
+"deceit" occurs 1 times
+
+"decide" occurs 1 times
+
+"declare" occurs 1 times
+
+"declared" occurs 1 times
+
+"deep" occurs 1 times
+
+"defiance" occurs 1 times
+
+"delicious" occurs 1 times
+
+"delirium" occurs 1 times
+
+"depends" occurs 1 times
+
+"depressing" occurs 1 times
+
+"depressiona" occurs 1 times
+
+"derision" occurs 1 times
+
+"design" occurs 2 times
+
+"desperate" occurs 1 times
+
+"destroy" occurs 1 times
+
+"determine" occurs 1 times
+
+"determined" occurs 1 times
+
+"developments" occurs 1 times
+
+"diagonally" occurs 1 times
+
+"did" occurs 13 times
+
+"didnt" occurs 4 times
+
+"different" occurs 1 times
+
+"dim" occurs 2 times
+
+"diningroom" occurs 1 times
+
+"dinneri" occurs 1 times
+
+"direction" occurs 2 times
+
+"directly" occurs 1 times
+
+"disagree" occurs 1 times
+
+"discouraging" occurs 1 times
+
+"discovered" occurs 1 times
+
+"distance" occurs 1 times
+
+"distinguish" occurs 1 times
+
+"distraction" occurs 1 times
+
+"disturb" occurs 1 times
+
+"dizzy" occurs 1 times
+
+"doctor" occurs 1 times
+
+"does" occurs 10 times
+
+"doing" occurs 4 times
+
+"dont" occurs 29 times
+
+"door" occurs 7 times
+
+"downstairs" occurs 4 times
+
+"draught" occurs 1 times
+
+"dreadfully" occurs 2 times
+
+"dream" occurs 1 times
+
+"dress" occurs 1 times
+
+"dug" occurs 1 times
+
+"dull" occurs 2 times
+
+"duty" occurs 1 times
+
+"dwells" occurs 1 times
+
+"earnest" occurs 1 times
+
+"easier" occurs 2 times
+
+"east" occurs 1 times
+
+"eat" occurs 1 times
+
+"ebook" occurs 1 times
+
+"effort" occurs 3 times
+
+"elms" occurs 1 times
+
+"end" occurs 2 times
+
+"endless" occurs 1 times
+
+"enduring" occurs 1 times
+
+"english" occurs 1 times
+
+"enjoy" occurs 1 times
+
+"enjoys" occurs 1 times
+
+"enter" occurs 1 times
+
+"entertain" occurs 1 times
+
+"entertainment" occurs 1 times
+
+"enthusiastic" occurs 1 times
+
+"equal" occurs 1 times
+
+"escape" occurs 1 times
+
+"estate" occurs 2 times
+
+"evening" occurs 3 times
+
+"eventhere" occurs 1 times
+
+"everlastingness" occurs 1 times
+
+"excited" occurs 1 times
+
+"excitement" occurs 1 times
+
+"exciting" occurs 1 times
+
+"excuses" occurs 1 times
+
+"exercise" occurs 3 times
+
+"exhaust" occurs 2 times
+
+"expect" occurs 1 times
+
+"expects" occurs 1 times
+
+"expression" occurs 2 times
+
+"extreme" occurs 1 times
+
+"eye" occurs 1 times
+
+"eyes" occurs 6 times
+
+"face" occurs 1 times
+
+"fact" occurs 1 times
+
+"fade" occurs 1 times
+
+"faded" occurs 2 times
+
+"faint" occurs 1 times
+
+"fainted" occurs 1 times
+
+"fairly" occurs 1 times
+
+"faith" occurs 1 times
+
+"fall" occurs 1 times
+
+"false" occurs 1 times
+
+"fancies" occurs 3 times
+
+"fancy" occurs 6 times
+
+"far" occurs 3 times
+
+"fascinating" occurs 1 times
+
+"fashioned" occurs 2 times
+
+"fast" occurs 4 times
+
+"fastened" occurs 1 times
+
+"faster" occurs 4 times
+
+"fate" occurs 1 times
+
+"fatuity" occurs 1 times
+
+"feel" occurs 11 times
+
+"feeling" occurs 1 times
+
+"felicitybut" occurs 1 times
+
+"felt" occurs 4 times
+
+"fierce" occurs 1 times
+
+"figure" occurs 2 times
+
+"figures" occurs 1 times
+
+"finally" occurs 1 times
+
+"finish" occurs 1 times
+
+"finished" occurs 1 times
+
+"fireworks" occurs 1 times
+
+"fits" occurs 1 times
+
+"flamboyant" occurs 1 times
+
+"flesh" occurs 1 times
+
+"floor" occurs 4 times
+
+"florid" occurs 1 times
+
+"flourishesa" occurs 1 times
+
+"flourishing" occurs 1 times
+
+"flowers" occurs 1 times
+
+"fog" occurs 1 times
+
+"follow" occurs 4 times
+
+"following" occurs 2 times
+
+"fond" occurs 2 times
+
+"food" occurs 1 times
+
+"foolish" occurs 1 times
+
+"forbidden" occurs 1 times
+
+"forgot" occurs 1 times
+
+"form" occurs 1 times
+
+"formless" occurs 1 times
+
+"fortunate" occurs 2 times
+
+"forward" occurs 1 times
+
+"foul" occurs 1 times
+
+"fourth" occurs 1 times
+
+"fretful" occurs 1 times
+
+"friend" occurs 2 times
+
+"friends" occurs 1 times
+
+"frieze" occurs 1 times
+
+"frighten" occurs 1 times
+
+"fun" occurs 1 times
+
+"fungus" occurs 3 times
+
+"funny" occurs 2 times
+
+"furniture" occurs 4 times
+
+"gaining" occurs 2 times
+
+"galore" occurs 1 times
+
+"garden" occurs 4 times
+
+"gardeners" occurs 1 times
+
+"gardenlarge" occurs 1 times
+
+"gate" occurs 1 times
+
+"gates" occurs 1 times
+
+"gathered" occurs 1 times
+
+"gentle" occurs 1 times
+
+"gentlest" occurs 1 times
+
+"gently" occurs 1 times
+
+"gets" occurs 2 times
+
+"getting" occurs 8 times
+
+"ghostliness" occurs 1 times
+
+"gilman" occurs 1 times
+
+"girl" occurs 2 times
+
+"glad" occurs 1 times
+
+"gloomily" occurs 1 times
+
+"gnarly" occurs 1 times
+
+"gnawed" occurs 1 times
+
+"gods" occurs 1 times
+
+"goes" occurs 2 times
+
+"going" occurs 2 times
+
+"gone" occurs 4 times
+
+"good" occurs 16 times
+
+"goose" occurs 1 times
+
+"got" occurs 7 times
+
+"gotten" occurs 1 times
+
+"gouged" occurs 1 times
+
+"grape" occurs 2 times
+
+"great" occurs 11 times
+
+"greater" occurs 1 times
+
+"green" occurs 1 times
+
+"greenhouses" occurs 1 times
+
+"grotesques" occurs 1 times
+
+"ground" occurs 1 times
+
+"growths" occurs 1 times
+
+"guess" occurs 1 times
+
+"gutenberg" occurs 1 times
+
+"gymnasium" occurs 1 times
+
+"gymnastics" occurs 1 times
+
+"habit" occurs 3 times
+
+"hair" occurs 1 times
+
+"half" occurs 3 times
+
+"hall" occurs 1 times
+
+"halls" occurs 1 times
+
+"hand" occurs 3 times
+
+"hands" occurs 1 times
+
+"hanging" occurs 1 times
+
+"hangings" occurs 1 times
+
+"happy" occurs 1 times
+
+"hard" occurs 3 times
+
+"hardly" occurs 1 times
+
+"hate" occurs 2 times
+
+"hated" occurs 2 times
+
+"hates" occurs 2 times
+
+"hatred" occurs 1 times
+
+"haunted" occurs 1 times
+
+"havent" occurs 1 times
+
+"head" occurs 5 times
+
+"headlong" occurs 1 times
+
+"heads" occurs 3 times
+
+"hear" occurs 1 times
+
+"heard" occurs 2 times
+
+"heart" occurs 1 times
+
+"heavy" occurs 3 times
+
+"hedges" occurs 1 times
+
+"height" occurs 1 times
+
+"heirs" occurs 1 times
+
+"help" occurs 3 times
+
+"henry" occurs 2 times
+
+"hereditary" occurs 1 times
+
+"herself" occurs 2 times
+
+"hes" occurs 1 times
+
+"hidden" occurs 1 times
+
+"hideous" occurs 1 times
+
+"hides" occurs 1 times
+
+"hiding" occurs 1 times
+
+"high" occurs 4 times
+
+"higher" occurs 1 times
+
+"hinder" occurs 1 times
+
+"hold" occurs 1 times
+
+"home" occurs 2 times
+
+"hop" occurs 1 times
+
+"hopes" occurs 1 times
+
+"horizontal" occurs 1 times
+
+"horizontally" occurs 1 times
+
+"horribly" occurs 1 times
+
+"horrid" occurs 2 times
+
+"horror" occurs 2 times
+
+"hour" occurs 4 times
+
+"hours" occurs 3 times
+
+"house" occurs 7 times
+
+"housei" occurs 1 times
+
+"housekeeper" occurs 1 times
+
+"houses" occurs 1 times
+
+"houseto" occurs 1 times
+
+"hovering" occurs 1 times
+
+"hug" occurs 1 times
+
+"humiliating" occurs 1 times
+
+"hurrah" occurs 1 times
+
+"hurt" occurs 1 times
+
+"husband" occurs 1 times
+
+"hypothesis" occurs 1 times
+
+"hysterical" occurs 1 times
+
+"idea" occurs 1 times
+
+"ideas" occurs 2 times
+
+"ill" occurs 1 times
+
+"im" occurs 7 times
+
+"imaginative" occurs 1 times
+
+"imagine" occurs 1 times
+
+"immovable" occurs 1 times
+
+"impertinence" occurs 1 times
+
+"impressionable" occurs 1 times
+
+"improper" occurs 1 times
+
+"improve" occurs 2 times
+
+"inanimate" occurs 1 times
+
+"inexplicable" occurs 1 times
+
+"influence" occurs 1 times
+
+"infuriating" occurs 1 times
+
+"inharmonious" occurs 1 times
+
+"innocent" occurs 2 times
+
+"instant" occurs 1 times
+
+"instead" occurs 1 times
+
+"intact" occurs 1 times
+
+"intense" occurs 1 times
+
+"intention" occurs 1 times
+
+"interesting" occurs 1 times
+
+"interests" occurs 1 times
+
+"interminable" occurs 2 times
+
+"irritant" occurs 1 times
+
+"irritate" occurs 2 times
+
+"irritating" occurs 1 times
+
+"isnt" occurs 1 times
+
+"isolated" occurs 1 times
+
+"itself" occurs 1 times
+
+"itthere" occurs 1 times
+
+"ive" occurs 4 times
+
+"jane" occurs 1 times
+
+"jennie" occurs 12 times
+
+"john" occurs 43 times
+
+"johns" occurs 2 times
+
+"joints" occurs 1 times
+
+"journeys" occurs 1 times
+
+"judge" occurs 1 times
+
+"julia" occurs 2 times
+
+"july" occurs 1 times
+
+"jump" occurs 1 times
+
+"just" occurs 19 times
+
+"keeps" occurs 3 times
+
+"kept" occurs 4 times
+
+"key" occurs 3 times
+
+"kind" occurs 4 times
+
+"kindly" occurs 1 times
+
+"knew" occurs 1 times
+
+"knobs" occurs 1 times
+
+"knocks" occurs 1 times
+
+"know" occurs 15 times
+
+"knows" occurs 3 times
+
+"lack" occurs 2 times
+
+"laid" occurs 1 times
+
+"lame" occurs 2 times
+
+"lamplight" occurs 1 times
+
+"lane" occurs 3 times
+
+"laugh" occurs 2 times
+
+"laughed" occurs 2 times
+
+"laughs" occurs 2 times
+
+"law" occurs 1 times
+
+"laws" occurs 1 times
+
+"lay" occurs 1 times
+
+"lazy" occurs 1 times
+
+"lead" occurs 1 times
+
+"leaf" occurs 2 times
+
+"lease" occurs 1 times
+
+"leave" occurs 4 times
+
+"left" occurs 1 times
+
+"legal" occurs 1 times
+
+"let" occurs 8 times
+
+"lets" occurs 3 times
+
+"letting" occurs 1 times
+
+"lie" occurs 7 times
+
+"life" occurs 3 times
+
+"lift" occurs 1 times
+
+"light" occurs 2 times
+
+"lights" occurs 2 times
+
+"like" occurs 21 times
+
+"line" occurs 1 times
+
+"lined" occurs 1 times
+
+"little" occurs 20 times
+
+"live" occurs 2 times
+
+"liver" occurs 1 times
+
+"living" occurs 1 times
+
+"lock" occurs 2 times
+
+"locked" occurs 1 times
+
+"lolls" occurs 1 times
+
+"long" occurs 12 times
+
+"look" occurs 7 times
+
+"looked" occurs 6 times
+
+"looking" occurs 2 times
+
+"looks" occurs 3 times
+
+"lose" occurs 2 times
+
+"lot" occurs 2 times
+
+"lots" occurs 2 times
+
+"lovely" occurs 4 times
+
+"loves" occurs 2 times
+
+"loving" occurs 2 times
+
+"low" occurs 3 times
+
+"lucky" occurs 1 times
+
+"lurid" occurs 1 times
+
+"lying" occurs 1 times
+
+"make" occurs 4 times
+
+"makes" occurs 8 times
+
+"making" occurs 2 times
+
+"man" occurs 2 times
+
+"manner" occurs 2 times
+
+"mansion" occurs 1 times
+
+"mark" occurs 1 times
+
+"marked" occurs 1 times
+
+"marriage" occurs 1 times
+
+"mary" occurs 1 times
+
+"mastered" occurs 1 times
+
+"match" occurs 1 times
+
+"matter" occurs 2 times
+
+"mattress" occurs 1 times
+
+"meadows" occurs 1 times
+
+"meal" occurs 1 times
+
+"mean" occurs 2 times
+
+"meant" occurs 2 times
+
+"meat" occurs 1 times
+
+"meet" occurs 1 times
+
+"menot" occurs 1 times
+
+"mention" occurs 1 times
+
+"mere" occurs 1 times
+
+"merrily" occurs 1 times
+
+"met" occurs 1 times
+
+"methe" occurs 1 times
+
+"miles" occurs 1 times
+
+"mind" occurs 5 times
+
+"mindperhaps" occurs 1 times
+
+"misconstrued" occurs 1 times
+
+"mitchell" occurs 1 times
+
+"moment" occurs 1 times
+
+"moments" occurs 1 times
+
+"months" occurs 2 times
+
+"moon" occurs 2 times
+
+"mooni" occurs 1 times
+
+"moonlight" occurs 5 times
+
+"moonlightthe" occurs 1 times
+
+"mopboard" occurs 1 times
+
+"morei" occurs 1 times
+
+"morning" occurs 3 times
+
+"mother" occurs 1 times
+
+"moveand" occurs 1 times
+
+"moving" occurs 1 times
+
+"musnt" occurs 1 times
+
+"myself" occurs 9 times
+
+"myselfbefore" occurs 1 times
+
+"mysterious" occurs 1 times
+
+"nailed" occurs 2 times
+
+"nap" occurs 1 times
+
+"near" occurs 2 times
+
+"nearly" occurs 1 times
+
+"neck" occurs 1 times
+
+"need" occurs 1 times
+
+"neglect" occurs 1 times
+
+"nellie" occurs 1 times
+
+"nervous" occurs 8 times
+
+"nervousness" occurs 1 times
+
+"new" occurs 2 times
+
+"nice" occurs 1 times
+
+"night" occurs 12 times
+
+"nights" occurs 1 times
+
+"normal" occurs 1 times
+
+"notice" occurs 2 times
+
+"noticed" occurs 1 times
+
+"numerous" occurs 2 times
+
+"nursery" occurs 5 times
+
+"occasionally" occurs 1 times
+
+"occupy" occurs 1 times
+
+"odor" occurs 2 times
+
+"offthe" occurs 1 times
+
+"oil" occurs 1 times
+
+"old" occurs 4 times
+
+"ones" occurs 2 times
+
+"open" occurs 4 times
+
+"opened" occurs 1 times
+
+"openly" occurs 1 times
+
+"opposition" occurs 2 times
+
+"optic" occurs 1 times
+
+"orange" occurs 1 times
+
+"order" occurs 2 times
+
+"ordinary" occurs 1 times
+
+"ought" occurs 1 times
+
+"outlines" occurs 1 times
+
+"outrageous" occurs 1 times
+
+"outside" occurs 5 times
+
+"pains" occurs 1 times
+
+"paint" occurs 1 times
+
+"paper" occurs 21 times
+
+"paperin" occurs 1 times
+
+"paperthe" occurs 1 times
+
+"parlor" occurs 1 times
+
+"particularly" occurs 1 times
+
+"patches" occurs 1 times
+
+"patent" occurs 1 times
+
+"path" occurs 2 times
+
+"paths" occurs 2 times
+
+"patience" occurs 1 times
+
+"patient" occurs 1 times
+
+"pattern" occurs 22 times
+
+"patternit" occurs 1 times
+
+"patterns" occurs 1 times
+
+"peculiar" occurs 1 times
+
+"peculiarity" occurs 1 times
+
+"peeled" occurs 2 times
+
+"people" occurs 6 times
+
+"perfect" occurs 2 times
+
+"perhapsi" occurs 2 times
+
+"perkins" occurs 1 times
+
+"perplexing" occurs 1 times
+
+"perseverance" occurs 1 times
+
+"person" occurs 1 times
+
+"personally" occurs 2 times
+
+"phosphates" occurs 1 times
+
+"phosphiteswhichever" occurs 1 times
+
+"physician" occurs 4 times
+
+"piazza" occurs 1 times
+
+"pick" occurs 1 times
+
+"piece" occurs 2 times
+
+"pillowcase" occurs 1 times
+
+"place" occurs 5 times
+
+"places" occurs 3 times
+
+"plain" occurs 2 times
+
+"plantain" occurs 2 times
+
+"plaster" occurs 1 times
+
+"playground" occurs 1 times
+
+"playroom" occurs 1 times
+
+"pleasant" occurs 1 times
+
+"pleased" occurs 1 times
+
+"pleases" occurs 1 times
+
+"plunge" occurs 1 times
+
+"plunges" occurs 1 times
+
+"pointless" occurs 1 times
+
+"poor" occurs 1 times
+
+"porch" occurs 1 times
+
+"positively" occurs 1 times
+
+"possible" occurs 1 times
+
+"possibly" occurs 1 times
+
+"pound" occurs 1 times
+
+"power" occurs 1 times
+
+"practical" occurs 1 times
+
+"prescription" occurs 1 times
+
+"press" occurs 1 times
+
+"pretended" occurs 1 times
+
+"pretty" occurs 3 times
+
+"principle" occurs 1 times
+
+"private" occurs 1 times
+
+"profession" occurs 1 times
+
+"professional" occurs 1 times
+
+"project" occurs 1 times
+
+"pronounced" occurs 1 times
+
+"proper" occurs 1 times
+
+"proudly" occurs 1 times
+
+"provoke" occurs 1 times
+
+"provoking" occurs 1 times
+
+"pulled" occurs 3 times
+
+"pure" occurs 1 times
+
+"push" occurs 1 times
+
+"puzzling" occurs 1 times
+
+"queer" occurs 3 times
+
+"querulous" occurs 1 times
+
+"questions" occurs 2 times
+
+"quickly" occurs 1 times
+
+"quiet" occurs 7 times
+
+"quietly" occurs 1 times
+
+"quite" occurs 8 times
+
+"radiation" occurs 2 times
+
+"rain" occurs 1 times
+
+"ran" occurs 1 times
+
+"rare" occurs 1 times
+
+"ravages" occurs 1 times
+
+"rayit" occurs 1 times
+
+"reach" occurs 5 times
+
+"read" occurs 2 times
+
+"ready" occurs 1 times
+
+"real" occurs 2 times
+
+"realize" occurs 1 times
+
+"really" occurs 14 times
+
+"reason" occurs 2 times
+
+"reasonable" occurs 1 times
+
+"recurrent" occurs 1 times
+
+"relatives" occurs 1 times
+
+"relief" occurs 3 times
+
+"relieve" occurs 1 times
+
+"remember" occurs 1 times
+
+"reminding" occurs 1 times
+
+"renovate" occurs 1 times
+
+"rental" occurs 1 times
+
+"repairs" occurs 1 times
+
+"repaper" occurs 1 times
+
+"repeated" occurs 1 times
+
+"repellant" occurs 1 times
+
+"repetition" occurs 1 times
+
+"report" occurs 1 times
+
+"reproachful" occurs 1 times
+
+"rest" occurs 4 times
+
+"restrained" occurs 1 times
+
+"revolting" occurs 1 times
+
+"ride" occurs 1 times
+
+"right" occurs 2 times
+
+"rings" occurs 1 times
+
+"riotous" occurs 1 times
+
+"road" occurs 5 times
+
+"romanesque" occurs 1 times
+
+"romantic" occurs 1 times
+
+"room" occurs 22 times
+
+"roomit" occurs 1 times
+
+"rooms" occurs 1 times
+
+"rope" occurs 2 times
+
+"roses" occurs 2 times
+
+"round" occurs 4 times
+
+"roundit" occurs 1 times
+
+"roundround" occurs 1 times
+
+"rubbed" occurs 1 times
+
+"run" occurs 2 times
+
+"runs" occurs 2 times
+
+"rush" occurs 1 times
+
+"safe" occurs 1 times
+
+"said" occurs 29 times
+
+"saidvery" occurs 1 times
+
+"sake" occurs 4 times
+
+"sat" occurs 2 times
+
+"satisfies" occurs 1 times
+
+"save" occurs 1 times
+
+"saw" occurs 4 times
+
+"sawnot" occurs 1 times
+
+"say" occurs 6 times
+
+"says" occurs 11 times
+
+"schedule" occurs 1 times
+
+"school" occurs 1 times
+
+"scientific" occurs 1 times
+
+"scoffs" occurs 1 times
+
+"score" occurs 1 times
+
+"scratched" occurs 1 times
+
+"seats" occurs 1 times
+
+"seaweeds" occurs 1 times
+
+"secretly" occurs 1 times
+
+"secure" occurs 1 times
+
+"securely" occurs 1 times
+
+"seen" occurs 2 times
+
+"sees" occurs 1 times
+
+"seldom" occurs 1 times
+
+"self" occurs 2 times
+
+"send" occurs 1 times
+
+"sense" occurs 1 times
+
+"sensitive" occurs 1 times
+
+"separate" occurs 1 times
+
+"separately" occurs 1 times
+
+"sequence" occurs 1 times
+
+"seriously" occurs 1 times
+
+"servants" occurs 1 times
+
+"shade" occurs 1 times
+
+"shaded" occurs 4 times
+
+"shades" occurs 1 times
+
+"shadow" occurs 1 times
+
+"shady" occurs 2 times
+
+"shake" occurs 2 times
+
+"shakes" occurs 3 times
+
+"shall" occurs 6 times
+
+"shame" occurs 1 times
+
+"shant" occurs 1 times
+
+"shape" occurs 1 times
+
+"shapes" occurs 1 times
+
+"shines" occurs 3 times
+
+"shining" occurs 1 times
+
+"shook" occurs 2 times
+
+"shoots" occurs 2 times
+
+"short" occurs 2 times
+
+"shoulder" occurs 2 times
+
+"showed" occurs 1 times
+
+"shriek" occurs 1 times
+
+"shut" occurs 1 times
+
+"sick" occurs 4 times
+
+"sickly" occurs 1 times
+
+"sideways" occurs 1 times
+
+"silenced" occurs 1 times
+
+"silly" occurs 3 times
+
+"sin" occurs 1 times
+
+"sister" occurs 2 times
+
+"sit" occurs 1 times
+
+"sitting" occurs 1 times
+
+"skulking" occurs 1 times
+
+"slanting" occurs 1 times
+
+"slaps" occurs 1 times
+
+"sleep" occurs 10 times
+
+"sleeping" occurs 1 times
+
+"slept" occurs 1 times
+
+"slight" occurs 1 times
+
+"slow" occurs 1 times
+
+"slowly" occurs 2 times
+
+"sly" occurs 2 times
+
+"smell" occurs 5 times
+
+"smelled" occurs 1 times
+
+"smooch" occurs 2 times
+
+"smooches" occurs 1 times
+
+"smoothly" occurs 1 times
+
+"smouldering" occurs 1 times
+
+"society" occurs 1 times
+
+"softly" occurs 1 times
+
+"solely" occurs 1 times
+
+"somersault" occurs 1 times
+
+"somewhat" occurs 1 times
+
+"soon" occurs 2 times
+
+"sort" occurs 2 times
+
+"sorts" occurs 1 times
+
+"soul" occurs 1 times
+
+"sound" occurs 1 times
+
+"special" occurs 1 times
+
+"spent" occurs 1 times
+
+"spite" occurs 5 times
+
+"splintered" occurs 1 times
+
+"spoils" occurs 1 times
+
+"spot" occurs 1 times
+
+"spots" occurs 3 times
+
+"sprawling" occurs 2 times
+
+"sprouting" occurs 1 times
+
+"stained" occurs 1 times
+
+"stairs" occurs 3 times
+
+"stand" occurs 3 times
+
+"standing" occurs 4 times
+
+"stands" occurs 1 times
+
+"stare" occurs 1 times
+
+"start" occurs 1 times
+
+"started" occurs 1 times
+
+"stay" occurs 1 times
+
+"stealing" occurs 1 times
+
+"step" occurs 1 times
+
+"steps" occurs 1 times
+
+"stern" occurs 1 times
+
+"sticketh" occurs 1 times
+
+"sticks" occurs 1 times
+
+"stimulating" occurs 1 times
+
+"stimulusbut" occurs 1 times
+
+"stir" occurs 1 times
+
+"stood" occurs 1 times
+
+"stooping" occurs 1 times
+
+"stopped" occurs 2 times
+
+"store" occurs 1 times
+
+"story" occurs 1 times
+
+"straight" occurs 4 times
+
+"strange" occurs 2 times
+
+"strangely" occurs 1 times
+
+"strangest" occurs 1 times
+
+"strangled" occurs 1 times
+
+"strangles" occurs 2 times
+
+"streak" occurs 1 times
+
+"strength" occurs 3 times
+
+"strikes" occurs 1 times
+
+"string" occurs 1 times
+
+"strip" occurs 1 times
+
+"stripped" occurs 1 times
+
+"strong" occurs 2 times
+
+"study" occurs 1 times
+
+"studying" occurs 1 times
+
+"sub" occurs 1 times
+
+"subdued" occurs 1 times
+
+"subpattern" occurs 1 times
+
+"subtlest" occurs 1 times
+
+"suddenly" occurs 3 times
+
+"suffer" occurs 2 times
+
+"suicide" occurs 1 times
+
+"sulk" occurs 1 times
+
+"sulphur" occurs 1 times
+
+"summer" occurs 1 times
+
+"sun" occurs 6 times
+
+"sunlight" occurs 1 times
+
+"sunshine" occurs 1 times
+
+"superstition" occurs 1 times
+
+"suppose" occurs 4 times
+
+"sure" occurs 4 times
+
+"surprise" occurs 1 times
+
+"suspect" occurs 1 times
+
+"symmetry" occurs 1 times
+
+"taken" occurs 1 times
+
+"takes" occurs 2 times
+
+"talk" occurs 6 times
+
+"tear" occurs 1 times
+
+"teeth" occurs 1 times
+
+"tell" occurs 5 times
+
+"telling" occurs 1 times
+
+"temperament" occurs 1 times
+
+"temporary" occurs 1 times
+
+"tendency" occurs 1 times
+
+"tendencywhat" occurs 1 times
+
+"terror" occurs 1 times
+
+"thatyoull" occurs 1 times
+
+"theres" occurs 3 times
+
+"thing" occurs 14 times
+
+"things" occurs 12 times
+
+"think" occurs 15 times
+
+"thinki" occurs 1 times
+
+"thinks" occurs 1 times
+
+"thought" occurs 5 times
+
+"thousandth" occurs 1 times
+
+"thrown" occurs 1 times
+
+"tie" occurs 1 times
+
+"till" occurs 3 times
+
+"time" occurs 11 times
+
+"times" occurs 2 times
+
+"tint" occurs 1 times
+
+"tired" occurs 7 times
+
+"tiresome" occurs 1 times
+
+"toadstool" occurs 1 times
+
+"toadstools" occurs 1 times
+
+"today" occurs 1 times
+
+"told" occurs 3 times
+
+"tomorrow" occurs 2 times
+
+"tonics" occurs 2 times
+
+"tonight" occurs 1 times
+
+"took" occurs 3 times
+
+"torn" occurs 1 times
+
+"torturing" occurs 1 times
+
+"touched" occurs 2 times
+
+"touches" occurs 1 times
+
+"town" occurs 3 times
+
+"toy" occurs 1 times
+
+"tramples" occurs 1 times
+
+"trees" occurs 2 times
+
+"tremensgo" occurs 1 times
+
+"tried" occurs 5 times
+
+"tries" occurs 1 times
+
+"trip" occurs 1 times
+
+"trouble" occurs 1 times
+
+"troubles" occurs 1 times
+
+"trust" occurs 2 times
+
+"try" occurs 4 times
+
+"trying" occurs 4 times
+
+"turn" occurs 4 times
+
+"turned" occurs 2 times
+
+"turning" occurs 1 times
+
+"turns" occurs 2 times
+
+"twilight" occurs 1 times
+
+"unblinking" occurs 1 times
+
+"uncertain" occurs 1 times
+
+"unclean" occurs 1 times
+
+"uncomfortable" occurs 1 times
+
+"undertaking" occurs 1 times
+
+"undoubtedly" occurs 1 times
+
+"undulating" occurs 1 times
+
+"ungrateful" occurs 1 times
+
+"unheard" occurs 1 times
+
+"unreasonably" occurs 1 times
+
+"unreliable" occurs 1 times
+
+"untenanted" occurs 1 times
+
+"upside" occurs 2 times
+
+"upstairs" occurs 1 times
+
+"use" occurs 3 times
+
+"used" occurs 11 times
+
+"value" occurs 1 times
+
+"velvet" occurs 1 times
+
+"verily" occurs 1 times
+
+"vicious" occurs 2 times
+
+"view" occurs 1 times
+
+"village" occurs 1 times
+
+"vines" occurs 1 times
+
+"visit" occurs 2 times
+
+"voice" occurs 2 times
+
+"waddling" occurs 2 times
+
+"wait" occurs 1 times
+
+"wake" occurs 2 times
+
+"waken" occurs 1 times
+
+"walk" occurs 1 times
+
+"walking" occurs 2 times
+
+"wall" occurs 4 times
+
+"wallowing" occurs 1 times
+
+"wallpaper" occurs 13 times
+
+"wallpaperhe" occurs 1 times
+
+"walls" occurs 3 times
+
+"want" occurs 11 times
+
+"wanted" occurs 3 times
+
+"wars" occurs 1 times
+
+"wasnt" occurs 2 times
+
+"wasnti" occurs 1 times
+
+"watch" occurs 5 times
+
+"watched" occurs 3 times
+
+"watching" occurs 1 times
+
+"waves" occurs 1 times
+
+"way" occurs 7 times
+
+"wayit" occurs 1 times
+
+"ways" occurs 1 times
+
+"weakness" occurs 2 times
+
+"weather" occurs 1 times
+
+"week" occurs 3 times
+
+"weeks" occurs 3 times
+
+"weigh" occurs 2 times
+
+"weir" occurs 1 times
+
+"went" occurs 2 times
+
+"wharf" occurs 1 times
+
+"whim" occurs 1 times
+
+"white" occurs 1 times
+
+"whitewashed" occurs 1 times
+
+"whyprivatelyive" occurs 1 times
+
+"wind" occurs 1 times
+
+"winding" occurs 1 times
+
+"window" occurs 7 times
+
+"windowi" occurs 1 times
+
+"windows" occurs 9 times
+
+"wine" occurs 1 times
+
+"wink" occurs 1 times
+
+"wise" occurs 1 times
+
+"wisebut" occurs 1 times
+
+"wish" occurs 5 times
+
+"wished" occurs 3 times
+
+"woke" occurs 1 times
+
+"woman" occurs 8 times
+
+"women" occurs 3 times
+
+"wonder" occurs 7 times
+
+"wonderfully" occurs 1 times
+
+"wonderi" occurs 1 times
+
+"wont" occurs 3 times
+
+"word" occurs 2 times
+
+"work" occurs 4 times
+
+"worlds" occurs 1 times
+
+"worse" occurs 4 times
+
+"worst" occurs 2 times
+
+"worth" occurs 1 times
+
+"wouldnt" occurs 4 times
+
+"write" occurs 5 times
+
+"writing" occurs 4 times
+
+"yards" occurs 1 times
+
+"years" occurs 1 times
+
+"yellow" occurs 10 times
+
+"young" occurs 1 times
+
